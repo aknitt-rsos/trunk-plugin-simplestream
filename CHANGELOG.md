@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.7]
+## [0.1.8]
 
 - Audio packets with JSON now carry `patched_talkgroup_tags` (the call's own talkgroup's tag, then those of the
   talkgroups patched with it; none when no tag is known), as Trunk Recorder's simplestream can, so a receiver that
